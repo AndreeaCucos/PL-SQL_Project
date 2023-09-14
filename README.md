@@ -1,2 +1,2 @@
 # SQL_Project
-A SQL database that simulates library management and serves as a practice ground for creating procedures, packages, constraints, and triggers.
+A SQL database, used to simulate the management of a library, used for the purpose of putting into practice the knowledge related to the creation of constraints, procedures, packages and triggers
